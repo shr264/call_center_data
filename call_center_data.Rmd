@@ -2,7 +2,9 @@
 title: "Call Center Data"
 author: "Syed Rahman"
 date: "04/24/2019"
-output: rmarkdown::github_document
+output: 
+  pdf_document:
+    keep_tex: True
 
 ---
 
